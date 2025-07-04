@@ -16,7 +16,7 @@ I'm doing this with the goal to build strong fundamentals for coding interviews,
 
 ## 🗓️ Daily Structure
 
-# 📌 DSA 30-Day Mastery Plan – Blockwise Breakdown
+
 
 # 📌 DSA 30-Day Mastery Plan – Blockwise Breakdown (Revised)
 
